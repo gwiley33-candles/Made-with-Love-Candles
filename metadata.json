@@ -1,0 +1,6 @@
+{
+  "name": "Made with Love Candles",
+  "description": "Artisan custom candle studio and shop to design bespoke scented candles with handcrafted vessels, scent notes, and personalized labels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
